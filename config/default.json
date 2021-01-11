@@ -1,0 +1,7 @@
+{
+  "port": 500,
+  "mongoUri": "mongodb+srv://felixao:nCcmSad9B65wR9h@cluster0.hjf3u.mongodb.net/app?retryWrites=true&w=majority",
+  "jwtSecret": "mern secret tokenProj",
+  "baseUrl": "http://localhost:500"
+
+}
